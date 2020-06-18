@@ -1,0 +1,9 @@
+${PODS_ROOT}/Target Support Files/Pods-MyTableWithRXSwift/Pods-MyTableWithRXSwift-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/PaginatedTableView/PaginatedTableView.framework
+${BUILT_PRODUCTS_DIR}/PullToRefreshKit/PullToRefreshKit.framework
+${BUILT_PRODUCTS_DIR}/RappleProgressHUD/RappleProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework
+${BUILT_PRODUCTS_DIR}/RxRelay/RxRelay.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework

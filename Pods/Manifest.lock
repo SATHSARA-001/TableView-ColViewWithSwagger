@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.9.1)
+  - PaginatedTableView (1.0.1)
+  - PullToRefreshKit (0.8.8)
+  - RappleProgressHUD (4.1)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.9.1)
+  - PaginatedTableView
+  - PullToRefreshKit
+  - RappleProgressHUD
+  - RxCocoa
+  - RxSwift
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - PaginatedTableView
+    - PullToRefreshKit
+    - RappleProgressHUD
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  PaginatedTableView: 294d9831d5ddf5c0dcfbb4a281d4fcfb8d12f55a
+  PullToRefreshKit: 7cc53e720e69f135cffa1a57784dfb534f0222ab
+  RappleProgressHUD: f29bc5dc5f9834c2caa9c2ae21ba11f3ff2b5a85
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: c1c6a31f7257402d51fbb9df5b0a2ea9445b6012
+
+COCOAPODS: 1.9.3

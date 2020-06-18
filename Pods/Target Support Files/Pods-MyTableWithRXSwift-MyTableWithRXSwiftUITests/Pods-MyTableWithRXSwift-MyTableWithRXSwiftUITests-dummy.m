@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_MyTableWithRXSwift_MyTableWithRXSwiftUITests : NSObject
+@end
+@implementation PodsDummy_Pods_MyTableWithRXSwift_MyTableWithRXSwiftUITests
+@end
