@@ -9,5 +9,13 @@
 import UIKit
 
 class CollectionViewCell: UICollectionViewCell {
+    @IBOutlet weak var lblName: UILabel!
+    @IBOutlet weak var lblAddress : UILabel!
     
+func configureCell(with model: ServiceCentre) {
+    
+    lblName.text = "\(model.name ?? "")"
+    lblAddress.text = model.address ?? ""
+}
+
 }
